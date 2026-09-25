@@ -7,15 +7,15 @@ body {
 
 .container {
     text-align: center;
-    margin-top: 150px;
+    margin-top: 10px;
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 10px;
 }
 
 p {
-    font-size: 20px;
+    font-size: 10px;
 }
 
 button {
